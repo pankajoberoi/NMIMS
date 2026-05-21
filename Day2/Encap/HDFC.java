@@ -1,4 +1,4 @@
-package Day2;
+package Day2.Encap;
 
 public class HDFC {
     private String Name; // class attribute -> obj -> cust1

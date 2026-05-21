@@ -1,10 +1,10 @@
-package Day2;
+package Day2.Encap;
 
 import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        HDFC cust1 = new HDFC("Pankaj", "qwe123", 200);
+        HDFC cust1 = new HDFC("Pankaj", "qwe123", 200, "Student");
         Scanner sc = new Scanner(System.in);
         int input = 0;
         while (input != 4) {

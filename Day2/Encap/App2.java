@@ -1,4 +1,4 @@
-package Day2;
+package Day2.Encap;
 
 public class App2 {
     public static void main(String[] args) {
