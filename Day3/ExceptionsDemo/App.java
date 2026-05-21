@@ -20,7 +20,7 @@ public class App {
             System.out.println(num1 / num2);
 
         } catch (ArithmeticException pankaj) {
-            System.out.println("PLease dont divide a no by 0");
+            System.out.println("PLease dont divide a no by 0 " + pankaj);
         } catch (InputMismatchException aarav) {
             System.out.println("PLease enter valid numbers!!");
         }
