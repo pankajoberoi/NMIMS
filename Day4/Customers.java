@@ -13,7 +13,7 @@ public class Customers {
 
     @Override
     public String toString() {
-        return "Customer[custId=" + custId + ", name=" + name + " , date " + date + "]" + "\n";
+        return "custId=" + custId + "- name = " + name + "- date = " + date + "]" + "\n";
     }
 
 }

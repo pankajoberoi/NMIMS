@@ -32,7 +32,9 @@ public class DMart {
 
         }
 
-        System.out.println(NewClist);
+        for (Customers client : NewClist) {
+            System.out.println(client);
+        }
 
         // System.out.println(Clist);
 
